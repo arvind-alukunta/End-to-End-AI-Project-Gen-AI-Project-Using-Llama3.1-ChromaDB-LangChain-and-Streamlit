@@ -28,6 +28,3 @@ The user interface is built using Streamlit, allowing users to input company inf
 ➡️ Best practice for storing API key separately from code
 ➡️ Automating job application process with Gen AI Project using Llama3.1
 ➡️ Using Llama3.1 for Gen AI Project
-
-
-
